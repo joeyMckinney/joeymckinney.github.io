@@ -8,4 +8,4 @@ share-img: /assets/img/controller2.jpg
 tags: [python, video games]
 ---
 # big header
-https://chart-studio.plotly.com/~josiahmckinney/1.embed
+
