@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Josiah McKinney
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Hi, Name is Josiah and I'm a data Scientist.
 
 # Your name to show in the footer
 author: Josiah McKinney
@@ -13,10 +13,6 @@ author: Josiah McKinney
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
