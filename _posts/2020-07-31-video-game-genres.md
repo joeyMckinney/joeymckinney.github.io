@@ -26,4 +26,8 @@ Now we should take note this data is not the most up to date. There seems to be 
 
 As you can see, fighting, shooter, sports, platform, puzzle, and role-playing have been at the top at one point or another. You can almost pinpoint when popular games came out based on spikes in a genre. Like you can see role-playing spiked in 1996, only less than two years after World of Warcraft came out. Then theirs that spike in puzzle games in 1989. And what was the most popular puzzle game in 1989? Tetris was after it's release to the US in 1988. And that spike in platform genre in 1985? That was Super Mario Bros.
 
-In conclusion, action games reign supreme. And they don't seem to be going anytime soon.  Although as virtual reality games get better and more accessible,  I could see them taking the top of the charts. Maybe even become more massive than all other genres combined.
+In conclusion, action games reign supreme. Sports games come close, but in the end, action wins.  Although there is one thing that gives action games advantage and that is the number of action games released.
+
+![sports vs action](https://raw.githubusercontent.com/joeyMckinney/joeymckinney.github.io/master/assets/img/sports_vs_action.png)
+
+From this dataset, there are almost 1000 more action video games than sport video games that have sold over 100,000 copies. One could make the argument that there are way more action video games then there are sport video games resulting in why they are in the top spot.
