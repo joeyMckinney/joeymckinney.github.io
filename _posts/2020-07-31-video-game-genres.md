@@ -21,7 +21,6 @@ So you can see that the blue bar is global sales for each genre, and the rest of
 
 Now we should take note this data is not the most up to date. There seems to be a crash in sales around the years 2007 - 2020. But the video game industry hasn't been on a decline since the mid-90s. Also, This data does not include mobile games. And the first iPhone came out in 2007, so that may also explain some of the dive. Looking at this graph we can see the action genre has not always been at the top. Let's take a look at this graph with only the genres that been at the top.
 
-
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~josiahmckinney/6.embed" height="525" width="100%"></iframe>
 
 
