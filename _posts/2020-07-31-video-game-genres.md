@@ -9,3 +9,4 @@ tags: [python, video games]
 ---
 # big header
 
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~josiahmckinney/1.embed" height="525" width="100%"></iframe>
