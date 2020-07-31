@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/controller_icon.jpg
 share-img: /assets/img/controller2.jpg
 tags: [python, video games]
 ---
-What type of video game comes to mind if you were asked, "what genre of video game sells the most copies?". My mind goes straight to shooters like Call of Duty or Halo. Growing up in the early 2000s, those were the games that most of the people I knew were playing. To find out the real answer, I grabbed a dataset from Kaggle with a list of 16598 video games that sold over 100,000 copies. Also, all these games are from 1980 to 2020. With that dataset, I created this graph below.
+What type of video game comes to mind if you were asked, "what genre of video game sells the most copies?". My mind goes straight to shooters like Call of Duty or Halo. Growing up in the early 2000s, those were the games that most of the people I knew were playing. To find out the real answer, I grabbed a <a href="https://www.kaggle.com/gregorut/videogamesales">dataset</a> from Kaggle with a list of 16598 video games that sold over 100,000 copies. Also, all these games are from 1980 to 2020. With that dataset, I created this graph below.
 
 
 ![sales genre](https://raw.githubusercontent.com/joeyMckinney/joeymckinney.github.io/master/assets/img/video_game_sales_by_genres_smaller.jpg)
