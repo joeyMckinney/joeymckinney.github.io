@@ -10,7 +10,7 @@ tags: [python, video games]
 What type of video game comes to mind if you were asked, "what genre of video game sells the most copies?". My mind goes straight to shooters like Call of Duty or Halo. Growing up in the early 2000s, those were the games that most of the people I knew were playing. To find out the real answer, I grabbed a dataset from Kaggle with a list of 16598 video games that sold over 100,000 copies. Also, all these games are from 1980 to 2020. With that dataset, I created this graph below.
 
 
-![](https://github.com/joeyMckinney/joeymckinney.github.io/blob/master/assets/img/video_game_sales_by_genres2.png)
+![](https://github.com/joeyMckinney/joeymckinney.github.io/blob/master/assets/img/video_game_sales_by_genres%20(1).jpg)
 
 
 So you can see that the blue bar is global sales for each genre, and the rest of the bars is broken down by North America, Europe, Japan,  and all other places. As you can see,  North America, I imagine mostly the US, really love their video games. They top the charts in almost every genre, except platform games where Japan sells take the lead.  But when it comes to genres like action, shooter, role-playing, simulation, and strategy North America is almost or over half of all global sales. But back to our main topic, from the looks of this graph, action video games are the top video game genres of all time. But has it always been that way? In this next graph, I'll break down the top genres over the past years.
