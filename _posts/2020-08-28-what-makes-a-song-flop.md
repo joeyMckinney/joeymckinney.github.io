@@ -5,5 +5,5 @@ subtitle: A look into what makes a song a success.
 cover-img: /assets/img/music_progarm.jpg
 thumbnail-img: /assets/img/music_icon.jpg
 share-img: /assets/img/music_progarm.jpg
-tags: [python, video games]
+tags: [pyton, music]
 ---
