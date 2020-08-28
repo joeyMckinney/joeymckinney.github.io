@@ -34,3 +34,7 @@ The next thing I wanted to look at was an example of how much these features pul
 In this plot the red is was is pulling the song to be a hit, blue doing the opposite. Although drakes song is a little speechy, the energy, danceability, and instrumentals work in his favor to make this so a hit. 
 
 Ultimately the Instrumentalness, Acousticness,  who is the artist, danceability, and duration of the song is the top 5 contributors to a song's chance to being a hit. I should mention a few things that would make these that could throw these results off. I am only using data from 41,000 songs in the US, that is a small portion of music out there. These songs date back to the 60s, and as we know, the top genres of music have changed a lot over the years. So this may not be the best predictor for today's music.
+
+Resources:
+<a href="https://www.kaggle.com/theoverman/the-spotify-hit-predictor-dataset">dataset</a>
+<a href="https://github.com/joeyMckinney/unit_2_biuld_week">Github Repo</a>
