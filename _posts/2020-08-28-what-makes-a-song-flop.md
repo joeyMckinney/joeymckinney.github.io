@@ -29,7 +29,7 @@ I should mention that Instrumentaliness and Acousticness were measured on a scal
 The next thing I wanted to look at was an example of how much these features pull on a song's ability to be a hit. Let's take a look at God's Plan by Drake. 
 
 
-![fig3]("shttps://raw.githubusercontent.com/joeyMckinney/joeymckinney.github.io/master/assets/img/fig3.png">)
+![fig3](https://raw.githubusercontent.com/joeyMckinney/joeymckinney.github.io/master/assets/img/fig3.png)
 
 In this plot the red is was is pulling the song to be a hit, blue doing the opposite. Although drakes song is a little speechy, the energy, danceability, and instrumentals work in his favor to make this so a hit. 
 
