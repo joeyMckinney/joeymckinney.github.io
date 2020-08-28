@@ -15,7 +15,7 @@ Ever wonder what makes a song become hit? What makes a song fail or flop? Is the
 Using XGBClassifier from Xgboost, I was able to achieve an 81% Validation accuracy score. But that still leaves the question of what makes a track a hit song? To answer that, I created this list that orders the most vital features and provides their weight.
 
 
-![fig1](https://raw.githubusercontent.com/joeyMckinney/joeymckinney.github.io/master/assets/img/fig1.png)
+![fig1](https://raw.githubusercontent.com/joeyMckinney/joeymckinney.github.io/master/assets/img/fig-1.png)
 
 
 As you can see, 'Instrumentalness' or how much of the song has no vocals, is the number one thing that influences a song's ability to be a hit or flop.  'Acousticness' or how much of a song's instruments were not electrically enhanced or modified, was in second place. With that information, I created this interaction plot below to see what the parameters are best for getting a hit between those two features.
