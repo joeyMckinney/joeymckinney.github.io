@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/music_icon.jpg
 share-img: /assets/img/music_progarm.jpg
 tags: [pyton, music]
 ---
-##About the data
+About the data
 Ever wonder what makes a song become hit? What makes a song fail or flop? Is there a formula for making a hit track? To make predictions, we should start by looking at the past.  I began by looking at this dataset from Kallgle called The Spotify hit Predictor Dataset (1960-2019). It consists of features for tracks fetched using Spotify's Web API.  Every example has a column that informs us if the song was a hit or flop.  Being a hit means the song has been featured in the weekly list (Issued by Billboards) of hot-100 tracks in its decade, at least once. Each entry has 15 attributes: danceability, energy, duration of song, liveness, and so on. From this data, I was able to create a model that can predict whether a track will be a hit or flop based on its attributes.
 
 ![xgb_meme](https://raw.githubusercontent.com/joeyMckinney/joeymckinney.github.io/master/assets/img/classifier_meme.jpg)
